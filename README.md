@@ -14,7 +14,7 @@
   - New armour and wearpon. Item, entity, technology.
   - New furnace that melt ore into fluid and special machine that shape it into ingots and then into plates.
 - Cosmicon Solar Panels:
-  Power mode.
+  Power mod.
   Objects that mod adds:
   - Solar panels 2, 3 and 4 lvls. Item, entity, technology.
   - Flat solar panels 1, 2, 3 and 4 lvls. Item, entity, technology. ! New machanic: You can walk on flat solar panels !
