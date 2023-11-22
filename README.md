@@ -4,7 +4,7 @@
 ### Components:
 
 - Cosmicon Mod:
-  Main mod. Now it is in development
+  Main mod. Now it is in development. 
   Objects that mod adds:
   - Speed furnace 1 lvl. Item, entity, technology.
   - Pocket dimension generator 1 lvl. Item, entity, technology, new mechanic. (in development)
