@@ -1,5 +1,5 @@
 # Cosmicon-Mod-Factorio
-##Cosmicon is mod for Factorio about space
+## Cosmicon is mod for Factorio about space
 
 ### Components:
 
