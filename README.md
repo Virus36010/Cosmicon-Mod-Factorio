@@ -1,7 +1,7 @@
-## Cosmicon-Mod-Factorio
-Cosmicon is mod for Factorio about space
+# Cosmicon-Mod-Factorio
+##Cosmicon is mod for Factorio about space
 
-# Components:
+### Components:
 
 - Cosmicon Mod:
   Main mod. Now it is in development
