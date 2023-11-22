@@ -1,0 +1,9 @@
+{
+    "name": "Cosmicon",
+    "version": "0.0.3",
+    "title": "Cosmicon mod",
+    "author": "Virus_36010",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0", "Cosmicon-Solar-Panels >= 0.0.1"],
+    "description": "Cosmicon is mod about space"
+}
