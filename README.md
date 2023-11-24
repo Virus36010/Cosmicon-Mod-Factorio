@@ -13,7 +13,7 @@
   - New power poles. Item, entity, technology.
   - New armour and wearpon. Item, entity, technology.
   - New furnace that melt ore into fluid and special machine that shape it into ingots and then into plates.
-- ##### Cosmicon Solar Panels:
+- #### Cosmicon Solar Panels:
   Power mod.
   Objects that mod adds:
   - Solar panels 2, 3 and 4 lvls. Item, entity, technology.
