@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Changes:
+    - Created mod "Cosmicon Solar Panels" and added to it solar panels, flat solar panels and batteries 2, 3 and 4 lvls
+  Bugfixes:
+    - Fixed localisation
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+  Changes:
+    - Cosmicon was created
+    - Added speed furnace 1 lvl
+    - I tried to create speed mining drill 1 lvl but i couldn't (now it is a plan for future to fix it)
+---------------------------------------------------------------------------------------------------
