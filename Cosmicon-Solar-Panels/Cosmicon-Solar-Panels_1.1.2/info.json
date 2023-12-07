@@ -1,0 +1,10 @@
+{
+    "name": "Cosmicon-Solar-Panels",
+    "version": "1.1.2",
+    "date": "2023-11-12",
+    "title": "Cosmicon Solar Panels",
+    "author": "Virus_36010",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0"],
+    "description": "Adds some better solar panels and batteries"
+}
