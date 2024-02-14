@@ -1,3 +1,0 @@
-0.1.1-
-  I added solar panels 2, 3 and 4 lvls.
-  I added flat solar panels 2, 3 and 4 lvls.
