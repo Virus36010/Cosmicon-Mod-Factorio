@@ -1,0 +1,9 @@
+{
+    "name": "Cosmicon-Electricity",
+    "version": "0.1.0",
+    "title": "Cosmicon-Electricity",
+    "author": "Virus_36010",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.0"],
+    "description": "Adds better electricicy..."
+}
